@@ -1,5 +1,11 @@
-# electron-react-boilerplate
+# Electron React boilerplate
 Base para construir uma aplicação [Electron](https://electronjs.org/) usando [React](https://reactjs.org/).
 
 # Instalar dependências
 Execute <code>yarn</code> ou <code>yarn install</code>
+
+# Executar
+<code>yarn run dev</code>
+
+# Enpacotar
+<code>yarn ebuild</code>
