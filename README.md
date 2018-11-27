@@ -7,5 +7,5 @@ Execute <code>yarn</code> ou <code>yarn install</code>
 # Executar
 <code>yarn run dev</code>
 
-# Enpacotar
+# Empacotar
 <code>yarn ebuild</code>
